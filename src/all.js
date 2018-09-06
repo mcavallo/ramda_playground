@@ -11,7 +11,7 @@ export const isEven = x => x % 2 === 0
 export const areAllEven = all(isEven)
 
 
-// atLeast5 :: Number -> Boolean
+// atLeast10 :: Number -> Boolean
 export const atLeast10 = gte(__, 10)
 
 
